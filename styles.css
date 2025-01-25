@@ -40,3 +40,6 @@ footer {
 .project {
     margin-bottom: 1em;
 }
+body {
+  font-family: 'Roboto', sans-serif;
+}
